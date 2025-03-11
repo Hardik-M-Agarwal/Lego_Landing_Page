@@ -53,6 +53,7 @@ const Navbar = () => {
             <Button
               id="product-button"
               title="3D-model"
+              href='#model'
               rightIcon={<TiLocationArrow />}
               containerClass="bg-blue-50 flex items-center justify-center gap-1"
             />

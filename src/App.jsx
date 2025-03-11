@@ -6,6 +6,7 @@ import Contact from './components/Contact'
 import Footer from './components/Footer'
 import Navbar from './components/Navbar'
 import Story from './components/Story'
+import Model from './components/Model'
 
 
 const App = () => {
@@ -15,6 +16,7 @@ const App = () => {
     <Hero/>
     <About/>
     <Features/>
+    <Model/>
     <Story/>
     <Contact/>
     <Footer/>
