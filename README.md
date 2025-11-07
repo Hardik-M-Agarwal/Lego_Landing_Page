@@ -28,10 +28,3 @@ Using Three.js for 3D modeling and GSAP for buttery-smooth animations, the proje
 ✨ Reimagined LEGO’s brand experience through motion storytelling and interactive 3D design
 🎯 Merged modern web design with real-time 3D rendering for a cinematic experience
 🧩 Built a playful, responsive interface that mirrors LEGO’s creativity and energy
----
-
-## 💡 Highlights
-
-- Recreated LEGO’s brand experience through **interactive storytelling** and **motion design**.  
-- Integrated **real-time 3D assets** optimized for performance and user engagement.  
-- Crafted a **visually immersive interface** that merges technology with creativity.  
